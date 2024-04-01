@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Python Note 1",
+        "text": "Data types: The data stored in memory can be of many types. For example, a student roll number is stored as a numeric value and his or her address is stored as alphanumeric characters. Python has various standard data types that are used to define the operations possible on them and the storage method for each of them. \n",
+        "link": "https://www.w3schools.com/python/python_datatypes.asp",
+        "tags": [
+            "datatype"
+        ],
+        "author": "alan",
+        "creation_date": "2024-03-31T22:20:04.062227"
+    },
+    {
+        "title": "Python Note 2",
+        "text": "Variables: Variables are nothing but reserved memory locations to store values. This means that when you create a variable you reserve some space in memory. Based on the data type of a variable, the interpreter allocates memory and decides what can be stored in the reserved memory. Therefore, by assigning different data types to variables, you can store integers, decimals or characters in these variables. \n",
+        "link": "https://www.w3schools.com/python/python_variables.asp",
+        "tags": [
+            "variables"
+        ],
+        "author": "alan",
+        "creation_date": "2024-03-31T22:22:43.253707"
+    },
+    {
+        "title": "Python Note 3",
+        "text": "Iteration: A loop statement allows us to execute a statement or group of statements multiple times as long as the condition is true. Repeated execution of a set of statements with the help of loops is called iteration. Loops statements are used when we need to run same code again and again, each time with a different value. \n",
+        "link": "https://www.w3schools.com/python/python_iterators.asp",
+        "tags": [
+            "iteration"
+        ],
+        "author": "alan",
+        "creation_date": "2024-03-31T22:24:32.909306"
+    }
+]
